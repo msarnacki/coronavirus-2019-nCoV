@@ -13,8 +13,8 @@ I've made some changes:
 - [x] Get data from google spreadsheet with **gspread** and **gspread_dataframe**
 - [x] **Clear data** - fillna, drop NaN columns and rows, drop columns I don't need
 - [x] **Save** cleared data to excel file (many sheets and one big dataframe to separate file)
+- [x] **Marge dataframes** from separate worksheets to one big dataframe
 - [ ] Standarise data - column names, values in cells
-- [ ] **Marge dataframes** from separate worksheets to one big dataframe
 - [ ] Change data type in column "Last Update" to **datetime**
 - [ ] **Group data by** countries or regions
 - [ ] **Plot** data (maybe some interactive plots)
