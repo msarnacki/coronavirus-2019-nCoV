@@ -19,6 +19,10 @@ I've made some changes:
 - [x] **Group data by** countries or regions
 - [x] **Plot** data (maybe some interactive plots)
 
+![China](china.png)
+
+![All countries excpect China](rest.png)
+
 File creds-git.json is an exemplary file. I deleted some data from it. If u want to use Python API for Google Sheets read these articles:  
 - https://gspread.readthedocs.io/en/latest/
 - https://gspread.readthedocs.io/en/latest/oauth2.html
