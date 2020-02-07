@@ -14,10 +14,10 @@ I've made some changes:
 - [x] **Clear data** - fillna, drop NaN columns and rows, drop columns I don't need
 - [x] **Save** cleared data to excel file (many sheets and one big dataframe to separate file)
 - [x] **Marge dataframes** from separate worksheets to one big dataframe
-- [ ] Standarise data - column names, values in cells
-- [ ] Change data type in column "Last Update" to **datetime**
-- [ ] **Group data by** countries or regions
-- [ ] **Plot** data (maybe some interactive plots)
+- [x] Standarise data - column names, values in cells
+- [x] Change data type in column "Last Update" to **datetime** - did that for time series data
+- [x] **Group data by** countries or regions
+- [x] **Plot** data (maybe some interactive plots)
 
 File creds-git.json is an exemplary file. I deleted some data from it. If u want to use Python API for Google Sheets read these articles:  
 - https://gspread.readthedocs.io/en/latest/
