@@ -22,7 +22,7 @@ I've made some changes:
 **Here are some plots I made:**
 
 **Time series data for China**
-<img align="center src="china.png">
+<img align="center src="china.png"/>
 
 
 **Time series data for all other countries**
