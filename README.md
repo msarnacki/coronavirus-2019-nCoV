@@ -19,11 +19,11 @@ I've made some changes:
 - [x] **Group data by** countries or regions
 - [x] **Plot** data (maybe some interactive plots)
 
-<h2>Here are some plots I made:</h2>
+**Here are some plots I made:**
+
 **Time series data for China**
-<div align="center>
-<img src="china.png">
-</div>
+<img align="center src="china.png">
+
 
 **Time series data for all other countries**
 ![All countries excpect China](rest.png)
