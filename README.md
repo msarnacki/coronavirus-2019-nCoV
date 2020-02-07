@@ -19,8 +19,21 @@ I've made some changes:
 - [x] **Group data by** countries or regions
 - [x] **Plot** data (maybe some interactive plots)
 
+
+'''html
+<h2>Here are some plots I made:</h2>
+<div align="center>
+<img src="china.png">
+</div>
+
+'''
+
+
+**Time series data for China**
 ![China](china.png)
 
+
+**Time series data for all other countries**
 ![All countries excpect China](rest.png)
 
 File creds-git.json is an exemplary file. I deleted some data from it. If u want to use Python API for Google Sheets read these articles:  
