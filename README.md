@@ -23,13 +23,12 @@ I've made some changes:
 
 **Time series data for China**
 <p align="center">
-<img src="china.png">
+<img src="img/china.png">
 </p>
-
 
 **Time series data for all other countries**
 <p align="center">
-<img src="rest.png">
+<img src="img/rest.png">
 </p>
 
 File creds-git.json is an exemplary file. I deleted some data from it. If u want to use Python API for Google Sheets read these articles:  
