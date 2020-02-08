@@ -15,9 +15,8 @@ I've made some changes:
 - [x] **Save** cleared data to excel file (many sheets and one big dataframe to separate file)
 - [x] **Marge dataframes** from separate worksheets to one big dataframe
 - [x] Standarise data - column names, values in cells
-- [x] Change data type in column "Last Update" to **datetime** - did that for time series data
 - [x] **Group data by** countries or regions
-- [x] **Plot** data (maybe some interactive plots)
+- [x] **Plot** data using datetime from column names (maybe some interactive plots):
 
 <h2>Here are some plots I made:</h2>
 
