@@ -17,6 +17,7 @@ I've made some changes:
 - [x] Standarise data - column names, values in cells
 - [x] **Group data by** countries or regions
 - [x] **Plot** data using datetime from column names (maybe some interactive plots):
+- [ ] Today (8.02.2020) they changed date format in new columns in time series so I need to make changes in that part of code
 
 <h2>Here are some plots I made:</h2>
 
