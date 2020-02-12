@@ -13,6 +13,7 @@ For previous version where I used Google Spreadsheets data go to [this directory
 - [ ] Prepare it the same way as in previous version
 - [ ] Go on with making plots and some analysis
 
+
 <h2>Here are some plots I made:</h2>
 
 **Time series data for China**
