@@ -2,7 +2,9 @@
 
 I made this program just for practice. It originally used python and Google Spreadsheets API. I got data from: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR3S1IMXpzD-EfOPqWCDttt96vuDQ77Uddrqhhf-iTRmYKxyOPQlPhsxG14#/bda7594740fd40299423467b48e9ecf6, provided by JHU CSSE.
 Now it is going to be changed to use data from github where they update it now twice a day.
+
 Link to [github repository with data](https://github.com/CSSEGISandData/COVID-19).
+
 For previous version where I used Google Spreadsheets data go to [this directory](../previous_version_files).
 
 **Things i plan to do:**
