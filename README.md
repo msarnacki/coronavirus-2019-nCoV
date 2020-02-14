@@ -21,7 +21,7 @@ For previous version where I used Google Spreadsheets data go to [this directory
 <img src="img/china.png">
 </p>
 
-The significant increase (about 15000 cases) in confirmed cases around 12th of February is caused by change in the definition of confirmed case.
+The significant increase (about 15000 cases) in confirmed cases around 13th of February is caused by change in the definition of confirmed case.
 
 **Time series data for all other countries**
 <p align="center">
