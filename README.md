@@ -9,8 +9,8 @@ For previous version where I used Google Spreadsheets data go to [this directory
 
 **Things i plan to do:**
 - [x] Did everything I needed to read data from Google Spreadsheets and used data to make some plots (look here: [previous_version_files/README.md](../previous_version_files/README.md)).
-- [ ] Read data in new way - from github
-- [ ] Prepare it the same way as in previous version
+- [x] Read data in new way - from github
+- [x] Prepare it the same way as in previous version
 - [ ] Go on with making plots and some analysis
 
 
