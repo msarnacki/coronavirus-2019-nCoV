@@ -16,7 +16,7 @@ For previous version where I used Google Spreadsheets data go to [this directory
 - [x] Automated making separete graphs for countries with number of confirmed cases over and under certain limit (see below) - made two separate figures with plots so that the values from the charts could be better read
 - [x] Automated making graph for absolute growth in number of confirmed and deaths/recovered cases
 
-<h2>Here are some graphs I made using (**matplotlib**):</h2>
+<h2>Here are some graphs I made using **(matplotlib)**:</h2>
 
 <h3>Time series data for China</h3>
 <p align="center">
