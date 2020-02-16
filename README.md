@@ -34,12 +34,7 @@ The significant increase (about 15000 cases) in confirmed cases around 13th of F
 </p>
 
 <h3>Absolute growth</h3>
-<p float="left">
-  <img src="img/abs_growth_confirmed.png" width="300" />
-  <img src="img/abs_growth_deaths_recovered.png" width="300" /> 
-</p>
-
-<h3>Absolute growth</h3>
 <p align="center">
-<img src="img/abs_growth_confirmed.png">
+  <img src="img/abs_growth_confirmed.png" width="450" />
+  <img src="img/abs_growth_deaths_recovered.png" width="450" /> 
 </p>
