@@ -20,7 +20,7 @@ For previous version where I used Google Spreadsheets data go to [this directory
 
 <h3>Time series data for China</h3>
 <p align="center">
-<img src="img/china.png" width="600">
+<img src="img/china.png" width="550" />
 </p>
 
 The significant increase (about 15000 cases) in confirmed cases around 13th of February is caused by change in the definition of confirmed case.
@@ -37,6 +37,6 @@ The significant increase (about 15000 cases) in confirmed cases around 13th of F
 
 <h3>Absolute growth</h3>
 <p align="center">
-  <img src="img/abs_growth_confirmed.png" width="400" />
-  <img src="img/abs_growth_deaths_recovered.png" width="400" /> 
+<img src="img/abs_growth_confirmed.png" width="400" />
+<img src="img/abs_growth_deaths_recovered.png" width="400" /> 
 </p>
