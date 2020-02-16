@@ -2,19 +2,21 @@
 
 I made this program just for practice. It originally used python and Google Spreadsheets API. I got data from: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR3S1IMXpzD-EfOPqWCDttt96vuDQ77Uddrqhhf-iTRmYKxyOPQlPhsxG14#/bda7594740fd40299423467b48e9ecf6, provided by JHU CSSE.
 
-Now I am gonna use data from github where they update it now twice a day.
+Now I am using data from github where they update it now once a day.
 Link to [github repository with data](https://github.com/CSSEGISandData/COVID-19).
 
 For previous version where I used Google Spreadsheets data go to [this directory](../previous_version_files).
 
-**Things i plan to do:**
-- [x] Did everything I needed to read data from Google Spreadsheets and used data to make some plots (look here: [previous_version_files/README.md](../previous_version_files/README.md)).
-- [x] Read data in new way - from github
-- [x] Prepare it the same way as in previous version
-- [x] Go on with making plots and some analysis
+(update 16.02.2020)
+**Things I have done:**
+- [x] Did everything I needed to read data from Google Spreadsheets and used data to make some graphs **(look here: [previous_version_files/README.md](../previous_version_files/README.md))**.
+- [x] Read data from github repository
+- [x] Process data using **pandas**
+- [x] Automated making graph with number of confirmed/deaths/recovered cases for China
+- [x] Automated making separete graphs for countries with number of confirmed cases over and under certain limit (see below) - made two separate figures with plots so that the values from the charts could be better read
+- [x] Automated making graph for absolute growth in number of confirmed and deaths/recovered cases
 
-
-<h2>Here are some plots I made:</h2>
+<h2>Here are some graphs I made using (**matplotlib**):</h2>
 
 <h3>Time series data for China</h3>
 <p align="center">
@@ -23,7 +25,7 @@ For previous version where I used Google Spreadsheets data go to [this directory
 
 The significant increase (about 15000 cases) in confirmed cases around 13th of February is caused by change in the definition of confirmed case.
 
-<h3>Time series plots for all other countries</h3>
+<h3>Time series graphs for all other countries</h3>
 
 <p align="center">
 <img src="img/rest_over_limit.png">
