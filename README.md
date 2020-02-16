@@ -16,7 +16,7 @@ For previous version where I used Google Spreadsheets data go to [this directory
 
 <h2>Here are some plots I made:</h2>
 
-**Time series data for China**
+<h3>Time series data for China</h3>
 <p align="center">
 <img src="img/china.png">
 </p>
@@ -29,7 +29,11 @@ The significant increase (about 15000 cases) in confirmed cases around 13th of F
 <img src="img/rest_over_limit.png">
 </p>
 
-
 <p align="center">
 <img src="img/rest_under_limit.png">
+</p>
+
+<h3>Absolute growth</h3>
+<p align="center>
+<img src="img/abs_growth.png">
 </p>
