@@ -11,7 +11,7 @@ For previous version where I used Google Spreadsheets data go to [this directory
 - [x] Did everything I needed to read data from Google Spreadsheets and used data to make some plots (look here: [previous_version_files/README.md](../previous_version_files/README.md)).
 - [x] Read data in new way - from github
 - [x] Prepare it the same way as in previous version
-- [ ] Go on with making plots and some analysis
+- [x] Go on with making plots and some analysis
 
 
 <h2>Here are some plots I made:</h2>
@@ -23,7 +23,13 @@ For previous version where I used Google Spreadsheets data go to [this directory
 
 The significant increase (about 15000 cases) in confirmed cases around 13th of February is caused by change in the definition of confirmed case.
 
-**Time series data for all other countries**
+<h3>Time series plots for all other countries</h3>
+
 <p align="center">
-<img src="img/rest.png">
+<img src="img/rest_over_limit.png">
+</p>
+
+
+<p align="center">
+<img src="img/rest_under_limit.png">
 </p>
