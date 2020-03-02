@@ -36,11 +36,15 @@ The significant increase (about 15000 cases) in confirmed cases around 13th of F
 <h3>Time series graphs for all other countries</h3>
 
 <p align="center">
-<img src="img/rest_over_limit.png">
+<img src="img/rest_over_high_limit.png">
 </p>
 
 <p align="center">
-<img src="img/rest_under_limit.png">
+<img src="img/rest_over_low_limit.png">
+</p>
+
+<p align="center">
+<img src="img/rest_under_low_limit.png">
 </p>
 
 <h3>Absolute growth</h3>
