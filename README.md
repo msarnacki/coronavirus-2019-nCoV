@@ -28,23 +28,20 @@ For previous version where I used Google Spreadsheets data go to [this directory
 
 <h3>Time series data for China</h3>
 <p align="center">
-<img src="img/china.png" width="475" />
+<img src="img/china.png" width="650" />
+</p>
+
+<h3>Time series data for Italy</h3>
+<p align="center">
+<img src="img/italy.png" width="650" />
 </p>
 
 The significant increase (about 15000 cases) in confirmed cases around 13th of February is caused by change in the definition of confirmed case.
 
-<h3>Time series graphs for all other countries</h3>
+<h3>Time series graphs for some other countries</h3>
 
 <p align="center">
-<img src="img/rest_over_high_limit.png">
-</p>
-
-<p align="center">
-<img src="img/rest_over_low_limit.png">
-</p>
-
-<p align="center">
-<img src="img/rest_under_low_limit.png">
+<img src="img/between_1500_15000.png">
 </p>
 
 <h3>Absolute growth</h3>
