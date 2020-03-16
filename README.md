@@ -33,7 +33,11 @@ For previous version where I used Google Spreadsheets data go to [this directory
 
 <h3>Time series data for Italy</h3>
 <p align="center">
+<<<<<<< HEAD
 <img src="img/italy.png" width="650" />
+=======
+<img src="img/italy.png" width="475" />
+>>>>>>> df3d37a8b8f4f1d89ff69a4fecc039af952fcc91
 </p>
 
 The significant increase (about 15000 cases) in confirmed cases around 13th of February is caused by change in the definition of confirmed case.
