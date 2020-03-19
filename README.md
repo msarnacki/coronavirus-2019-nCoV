@@ -7,13 +7,12 @@ Link to [github repository with data](https://github.com/CSSEGISandData/COVID-19
 
 For previous version where I used Google Spreadsheets data go to [this directory](../previous_version_files).
 
-(update 16.02.2020)
 **Things I have done:**
 - [x] Did everything I needed to read data from Google Spreadsheets and used data to make some graphs **(look here: [previous_version_files/README.md](../previous_version_files/README.md))**.
 - [x] Read data from github repository
 - [x] Process data using **pandas**
-- [x] Automated making graph with number of confirmed/deaths/recovered cases for China
-- [x] Automated making separete graphs for countries with number of confirmed cases over and under certain limit (see below) - made two separate figures with plots so that the values from the charts could be better read
+- [x] Automated making graph with number of confirmed/deaths/recovered cases for China and Italy
+- [x] Automated making figure with graphs of countries with most confirmed casese (without China and Italy)
 - [x] Automated making graph for absolute growth in number of confirmed and deaths/recovered cases
 
 ## Technologies used:
@@ -21,6 +20,7 @@ For previous version where I used Google Spreadsheets data go to [this directory
 - Jupyter Notebook
 - pandas 
 - matplotlib
+- seaborn
 - git
 
 
