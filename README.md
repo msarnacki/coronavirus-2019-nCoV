@@ -38,10 +38,10 @@ For previous version where I used Google Spreadsheets data go to [this directory
 
 The significant increase (about 15000 cases) in confirmed cases around 13th of February is caused by change in the definition of confirmed case.
 
-<h3>Time series graphs for some other countries</h3>
+<h3>Time series graph for other countries with biggest number of confirmed cases</h3>
 
 <p align="center">
-<img src="img/between_1500_15000.png">
+<img src="img/most_confirmed_cases.png">
 </p>
 
 <h3>Absolute growth</h3>
