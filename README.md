@@ -1,5 +1,7 @@
 # COVID19
 
+The program is fully automatical. [main.ipynb](../main.ipynb) is a script that you can run all cells at once and get every graph and xls file with latest data possible.
+
 I made this program just for practice. It originally used python and Google Spreadsheets API. I got data from: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR3S1IMXpzD-EfOPqWCDttt96vuDQ77Uddrqhhf-iTRmYKxyOPQlPhsxG14#/bda7594740fd40299423467b48e9ecf6, provided by JHU CSSE.
 
 Now I am using data from github where they update it now once a day.
@@ -8,7 +10,7 @@ Link to [github repository with data](https://github.com/CSSEGISandData/COVID-19
 For previous version where I used Google Spreadsheets data go to [this directory](../previous_version_files).
 
 **Things I have done:**
-- [x] Did everything I needed to read data from Google Spreadsheets and used data to make some graphs **(look here: [previous_version_files/README.md](../previous_version_files/README.md))**.
+- [x] Did everything I needed to read data from Google Spreadsheets and used data to make some graphs **(look [here](../previous_version_files/README.md))**.
 - [x] Read data from github repository
 - [x] Process data using **pandas**
 - [x] Automated making graph with number of confirmed/deaths/recovered cases for China and Italy
