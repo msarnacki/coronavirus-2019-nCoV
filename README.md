@@ -28,17 +28,20 @@ For previous version where I used Google Spreadsheets data go to [this directory
 
 ## Here are some graphs I made using **matplotlib**:
 
-<h3>Time series data for China</h3>
+<h3>Time series data for US</h3>
 <p align="center">
-<img src="img/china.png" width="650" />
+<img src="img/US.png" width="650" />
 </p>
 
 <h3>Time series data for Italy</h3>
 <p align="center">
-<img src="img/italy.png" width="650" />
+<img src="img/Italy.png" width="650" />
 </p>
 
-The significant increase (about 15000 cases) in confirmed cases around 13th of February is caused by change in the definition of confirmed case.
+<h3>Time series data for China</h3>
+<p align="center">
+<img src="img/China.png" width="650" />
+</p>
 
 <h3>Time series graph for other countries with biggest number of confirmed cases</h3>
 
@@ -50,4 +53,14 @@ The significant increase (about 15000 cases) in confirmed cases around 13th of F
 <p align="center">
 <img src="img/abs_growth_confirmed.png" width="400" />
 <img src="img/abs_growth_deaths_recovered.png" width="400" /> 
+</p>
+
+<h3>How many countries/regions are affected</h3>
+<p align="center">
+<img src="img/num_of_countries.png" width="650" />
+</p>
+
+<h3>Time series data for Poland</h3>
+<p align="center">
+<img src="img/Poland.png" width="650" />
 </p>
