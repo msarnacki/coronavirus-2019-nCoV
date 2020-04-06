@@ -33,9 +33,9 @@ For previous version where I used Google Spreadsheets data go to [this directory
 <img src="img/US.png" width="650" />
 </p>
 
-<h3>Time series data for Italy</h3>
+<h3>Time series data for Spain</h3>
 <p align="center">
-<img src="img/Italy.png" width="650" />
+<img src="img/Spain.png" width="650" />
 </p>
 
 <h3>Time series graph for other countries with biggest number of confirmed cases</h3>
