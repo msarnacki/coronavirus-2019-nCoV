@@ -55,6 +55,6 @@ For previous version where I used Google Spreadsheets data go to [this directory
 
 <h3>Number of confirmed cases by days after passing 100 confirmed cases in country</h3>
 <p align="center">
-<img src="img/['Poland','US','Spain','Italy']_per_mil.png" width="600" />
+<img src="img/['Poland', 'US', 'Spain', 'Italy']_per_mil.png" width="600" />
 </p>
 
