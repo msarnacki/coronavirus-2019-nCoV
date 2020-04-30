@@ -18,6 +18,7 @@ For previous version where I used Google Spreadsheets data go to [this directory
 - [x] Automated making graph for absolute growth in number of confirmed and deaths/recovered cases
 - [x] Automated making interactive plot using **bookeh (look [here](../docs/README.md))**
 - [x] Automated making graph with number of confirmed cases starting from the day when the country passed 100 confirmed cases (for few chosen countries)
+- [x] Automated making graph with number of confirmed cases per million citizens
 
 ## Technologies used:
 - Python 3
@@ -54,6 +55,11 @@ For previous version where I used Google Spreadsheets data go to [this directory
 </p>
 
 <h3>Number of confirmed cases by days after passing 100 confirmed cases in country</h3>
+<p align="center">
+<img src="img/['China', 'Italy', 'US', 'Spain']_100.png" width="600" />
+</p>
+
+<h3>Number of confirmed cases per million citizens in countries</h3>
 <p align="center">
 <img src="img/['Poland', 'US', 'Spain', 'Italy']_per_mil.png" width="600" />
 </p>
