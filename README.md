@@ -16,7 +16,7 @@ For previous version where I used Google Spreadsheets data go to [this directory
 - [x] Automated making graph with number of confirmed/deaths/recovered cases for 2 countries with biggest numbers
 - [x] Automated making figure with graphs of countries with most confirmed casese (without 2 countries from point above)
 - [x] Automated making graph for absolute growth in number of confirmed and deaths/recovered cases
-- [x] Automated making interactive plot using **bookeh (look [here](../docs/README.md))**
+- [x] Automated making interactive plot using **bookeh (look [here](../docs)**
 - [x] Automated making graph with number of confirmed cases starting from the day when the country passed 100 confirmed cases (for few chosen countries)
 - [x] Automated making graph with number of confirmed cases per million citizens
 
