@@ -7,16 +7,16 @@ I made this program just for practice. It originally used python and Google Spre
 Now I am using data from github where they update it now once a day.
 Link to [github repository with data](https://github.com/CSSEGISandData/COVID-19).
 
-For previous version where I used Google Spreadsheets data go to [this directory](../blob/master/previous_version_files).
+For previous version where I used Google Spreadsheets data go to [this directory](../master/previous_version_files).
 
 **Things I have done:**
-- [x] Did everything I needed to read data from Google Spreadsheets and used data to make some graphs **(look [here](../blob/master/previous_version_files/README.md))**.
+- [x] Did everything I needed to read data from Google Spreadsheets and used data to make some graphs **(look [here](../master/previous_version_files/README.md))**.
 - [x] Read data from github repository
 - [x] Process data using **pandas**
 - [x] Automated making graph with number of confirmed/deaths/recovered cases for 2 countries with biggest numbers
 - [x] Automated making figure with graphs of countries with most confirmed casese (without 2 countries from point above)
 - [x] Automated making graph for absolute growth in number of confirmed and deaths/recovered cases
-- [x] Automated making interactive plot using **bookeh (look [here](../blob/master/docs))**
+- [x] Automated making interactive plot using **bookeh (look [here](../master/docs))**
 - [x] Automated making graph with number of confirmed cases starting from the day when the country passed 100 confirmed cases (for few chosen countries)
 - [x] Automated making graph with number of confirmed cases per million citizens
 
