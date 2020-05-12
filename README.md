@@ -7,15 +7,18 @@ I made this program just for practice. It originally used python and Google Spre
 Now I am using data from github where they update it now once a day.
 Link to [github repository with data](https://github.com/CSSEGISandData/COVID-19).
 
-For previous version where I used Google Spreadsheets data go to [this directory](../previous_version_files).
+For previous version where I used Google Spreadsheets data go to [this directory](../master/previous_version_files).
 
 **Things I have done:**
-- [x] Did everything I needed to read data from Google Spreadsheets and used data to make some graphs **(look [here](../previous_version_files/README.md))**.
+- [x] Did everything I needed to read data from Google Spreadsheets and used data to make some graphs **(look [here](../master/previous_version_files/README.md))**.
 - [x] Read data from github repository
 - [x] Process data using **pandas**
-- [x] Automated making graph with number of confirmed/deaths/recovered cases for China and Italy
-- [x] Automated making figure with graphs of countries with most confirmed casese (without China and Italy)
+- [x] Automated making graph with number of confirmed/deaths/recovered cases for 2 countries with biggest numbers
+- [x] Automated making figure with graphs of countries with most confirmed casese (without 2 countries from point above)
 - [x] Automated making graph for absolute growth in number of confirmed and deaths/recovered cases
+- [x] Automated making interactive plot using **bookeh (look [here](../master/docs))**
+- [x] Automated making graph with number of confirmed cases starting from the day when the country passed 100 confirmed cases (for few chosen countries)
+- [x] Automated making graph with number of confirmed cases per million citizens
 
 ## Technologies used:
 - Python 3
@@ -24,18 +27,19 @@ For previous version where I used Google Spreadsheets data go to [this directory
 - matplotlib
 - seaborn
 - git
+- bookeh
 
 
-## Here are some graphs I made using **matplotlib**:
+## Here are some graphs I made:
 
 <h3>Time series data for US</h3>
 <p align="center">
-<img src="img/US.png" width="650" />
+<img src="img/US.png" width="600" />
 </p>
 
 <h3>Time series data for Spain</h3>
 <p align="center">
-<img src="img/Spain.png" width="650" />
+<img src="img/Spain.png" width="600" />
 </p>
 
 <h3>Time series graph for other countries with biggest number of confirmed cases</h3>
@@ -50,12 +54,13 @@ For previous version where I used Google Spreadsheets data go to [this directory
 <img src="img/abs_growth_deaths_recovered.png" width="400" /> 
 </p>
 
-<h3>How many countries/regions are affected</h3>
+<h3>Number of confirmed cases by days after passing 100 confirmed cases in country</h3>
 <p align="center">
-<img src="img/num_of_countries.png" width="650" />
+<img src="img/['China', 'Italy', 'US', 'Spain']_100.png" width="600" />
 </p>
 
-<h3>Time series data for Poland</h3>
+<h3>Number of confirmed cases per million citizens in countries</h3>
 <p align="center">
-<img src="img/Poland.png" width="650" />
+<img src="img/['Poland', 'US', 'Spain', 'Italy']_per_mil.png" width="600" />
 </p>
+
