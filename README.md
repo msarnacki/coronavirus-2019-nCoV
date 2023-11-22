@@ -1,5 +1,15 @@
 # COVID19
 
+<p align="left">
+    <img src="https://img.shields.io/github/stars/msarnacki/coronavirus-COVID19"/>
+    <img src="https://img.shields.io/github/watchers/msarnacki/coronavirus-COVID19"/>
+    <img src="https://img.shields.io/github/commit-activity/t/msarnacki/coronavirus-COVID19"/>
+    <img src="https://img.shields.io/github/last-commit/msarnacki/coronavirus-COVID19"/>
+    <img src="https://img.shields.io/github/issues/msarnacki/coronavirus-COVID19"/>
+    <img src="https://img.shields.io/github/languages/top/msarnacki/coronavirus-COVID19"/>
+    <img src="https://img.shields.io/github/repo-size/msarnacki/coronavirus-COVID19"/>
+</p>
+
 The program is fully automatical. [main.ipynb](../main.ipynb) is a script that you can run all cells at once and get every graph and xls file with latest data possible.
 
 I made this program just for practice. It originally used python and Google Spreadsheets API. I got data from: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR3S1IMXpzD-EfOPqWCDttt96vuDQ77Uddrqhhf-iTRmYKxyOPQlPhsxG14#/bda7594740fd40299423467b48e9ecf6, provided by JHU CSSE.
